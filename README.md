@@ -7,7 +7,7 @@ Simple web game where you play beach volleyball against opponent, swipe up (or u
 
 ### My other games
 
-- [Alien invasion](https://github.com/dvhx/game-word-puzzle) - 2D bullet hell alien shooter, collect credits and upgrade your ship
+- [Alien invasion](https://github.com/dvhx/game-alien-invasion) - 2D bullet hell alien shooter, collect credits and upgrade your ship
 - [Balloon mountains](https://github.com/dvhx/game-balloon-mountains) - pop balloons while flying over misty mountains
 - [Ghost car challenge](https://github.com/dvhx/game-ghost-car-challenge) - WebGL 3D game where you compete against "ghost drivers", uses tilt sensor on mobile phones (Android)
 - [Ghost chat bot](https://github.com/dvhx/game-ghost-chatbot) - chat with very simple chatbot, no LLM!
